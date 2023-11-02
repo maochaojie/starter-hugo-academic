@@ -29,21 +29,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodal Understanding
+  - Application and Tuning of Foundational Model 
+  - Image generation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Information Science 
+      institution: College of Information Science and Electronic Engineering (ISEE) at Zhejiang University
+      year: 2018
+    - course: BSc in Information Science
+      institution: College of Information Science and Electronic Engineering (ISEE) at Zhejiang University
+      year: 2015
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -118,6 +116,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am currently a research scientist at Alibaba DAMO Academy and focus on the research and application of basic fundamental models , especially the generative model and tuning methods.  
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In 2018, I graduated from College of Information Science and Electronic Engineering (ISEE) at Zhejiang University, advised Prof. Zhongfei Zhang, Prof. Xi Li and Prof. Yingming Li. I also received my Bachelor in Zhejiang University.
+
+My research interests are in visual perception and deep learning,  especially in video understanding and basic fundamental model. My works have been published in journals/conferences such as  NeurIPS, ICCV and AAAI.
 {style="text-align: justify;"}
