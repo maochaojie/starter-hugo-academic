@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Engineer of Alibaba Group
+role: Senior Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
